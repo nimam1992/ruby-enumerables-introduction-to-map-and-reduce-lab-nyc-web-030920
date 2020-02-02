@@ -70,5 +70,6 @@ def reduce_to_any_true(source_array)
       statement = true
     end
     i+=1
+  end
     statement
   end
