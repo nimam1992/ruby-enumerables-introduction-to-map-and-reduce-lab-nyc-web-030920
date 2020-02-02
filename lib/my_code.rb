@@ -48,7 +48,7 @@ def reduce_to_total(source_array)
   total
   end
 
-def reduce_to_tot(starting_point,source_array)
+def reduce_to_tot(source_array,starting_pint)
   i = 0
   while i<source_array.length do
     starting_point+=source_array[i]
